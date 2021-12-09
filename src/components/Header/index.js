@@ -27,10 +27,10 @@ function Header() {
               {" "}
               <li className="nav__items mx__15"> Contact</li>
             </Link>
-            {/* <Link to="resume">
+            <Link to="resume">
               {" "}
               <li className="nav__items mx__15">Resume</li>
-            </Link> */}
+            </Link>
           </ul>
         </div>
       </div>
