@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/panje-nambao/static/css/main.fb349348.chunk.css",
-    "main.js": "/panje-nambao/static/js/main.415d480a.chunk.js",
-    "main.js.map": "/panje-nambao/static/js/main.415d480a.chunk.js.map",
-    "runtime-main.js": "/panje-nambao/static/js/runtime-main.56f968bd.js",
-    "runtime-main.js.map": "/panje-nambao/static/js/runtime-main.56f968bd.js.map",
-    "static/js/2.0c9cea92.chunk.js": "/panje-nambao/static/js/2.0c9cea92.chunk.js",
-    "static/js/2.0c9cea92.chunk.js.map": "/panje-nambao/static/js/2.0c9cea92.chunk.js.map",
-    "static/js/3.b6e2c702.chunk.js": "/panje-nambao/static/js/3.b6e2c702.chunk.js",
-    "static/js/3.b6e2c702.chunk.js.map": "/panje-nambao/static/js/3.b6e2c702.chunk.js.map",
-    "index.html": "/panje-nambao/index.html",
-    "static/css/main.fb349348.chunk.css.map": "/panje-nambao/static/css/main.fb349348.chunk.css.map",
-    "static/js/2.0c9cea92.chunk.js.LICENSE.txt": "/panje-nambao/static/js/2.0c9cea92.chunk.js.LICENSE.txt",
-    "static/media/Resume.33a18bd8.pdf": "/panje-nambao/static/media/Resume.33a18bd8.pdf",
-    "static/media/Home.css": "/panje-nambao/static/media/background.9255a529.jpg",
-    "static/media/panje2.40941382.jpg": "/panje-nambao/static/media/panje2.40941382.jpg",
-    "static/media/portfolio-1.8754c73c.jpg": "/panje-nambao/static/media/portfolio-1.8754c73c.jpg",
-    "static/media/portfolio-2.49f79d5b.jpg": "/panje-nambao/static/media/portfolio-2.49f79d5b.jpg",
-    "static/media/portfolio-4.6368325b.jpg": "/panje-nambao/static/media/portfolio-4.6368325b.jpg"
+    "main.css": "/panje-nambao/home/static/css/main.d4af9719.chunk.css",
+    "main.js": "/panje-nambao/home/static/js/main.74e72bbd.chunk.js",
+    "main.js.map": "/panje-nambao/home/static/js/main.74e72bbd.chunk.js.map",
+    "runtime-main.js": "/panje-nambao/home/static/js/runtime-main.5968f3dc.js",
+    "runtime-main.js.map": "/panje-nambao/home/static/js/runtime-main.5968f3dc.js.map",
+    "static/js/2.0c9cea92.chunk.js": "/panje-nambao/home/static/js/2.0c9cea92.chunk.js",
+    "static/js/2.0c9cea92.chunk.js.map": "/panje-nambao/home/static/js/2.0c9cea92.chunk.js.map",
+    "static/js/3.b6e2c702.chunk.js": "/panje-nambao/home/static/js/3.b6e2c702.chunk.js",
+    "static/js/3.b6e2c702.chunk.js.map": "/panje-nambao/home/static/js/3.b6e2c702.chunk.js.map",
+    "index.html": "/panje-nambao/home/index.html",
+    "static/css/main.d4af9719.chunk.css.map": "/panje-nambao/home/static/css/main.d4af9719.chunk.css.map",
+    "static/js/2.0c9cea92.chunk.js.LICENSE.txt": "/panje-nambao/home/static/js/2.0c9cea92.chunk.js.LICENSE.txt",
+    "static/media/Resume.33a18bd8.pdf": "/panje-nambao/home/static/media/Resume.33a18bd8.pdf",
+    "static/media/Home.css": "/panje-nambao/home/static/media/background.9255a529.jpg",
+    "static/media/panje2.40941382.jpg": "/panje-nambao/home/static/media/panje2.40941382.jpg",
+    "static/media/portfolio-1.8754c73c.jpg": "/panje-nambao/home/static/media/portfolio-1.8754c73c.jpg",
+    "static/media/portfolio-2.49f79d5b.jpg": "/panje-nambao/home/static/media/portfolio-2.49f79d5b.jpg",
+    "static/media/portfolio-4.6368325b.jpg": "/panje-nambao/home/static/media/portfolio-4.6368325b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.56f968bd.js",
+    "static/js/runtime-main.5968f3dc.js",
     "static/js/2.0c9cea92.chunk.js",
-    "static/css/main.fb349348.chunk.css",
-    "static/js/main.415d480a.chunk.js"
+    "static/css/main.d4af9719.chunk.css",
+    "static/js/main.74e72bbd.chunk.js"
   ]
 }
